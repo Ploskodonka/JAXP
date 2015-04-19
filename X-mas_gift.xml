@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<candy>
+	<sweet name="Candy 1" energy="100" type="caramel" production="Fazer">
+		<ingredients water="100" sugar="23" fructose="15" vanillin="15"/>
+		<value protein="15" fat="20" carbohydrates="58"/>
+	</sweet>
+	
+	<sweet name="Candy 2" energy="150" type="toffee" production="Lindt">
+		<ingredients water="110" sugar="35" fructose="20" vanillin="20"/>
+		<value protein="10" fat="19" carbohydrates="56"/>
+	</sweet>
+	
+	<sweet name="Candy 3" energy="135" type="waffle" production="Cadbury">
+		<ingredients water="200" sugar="20" fructose="40" vanillin="15"/>
+		<value protein="21" fat="12" carbohydrates="67"/>
+	</sweet>
+	
+	<sweet name="Candy 4" energy="300" type="chocolate" production="Fazer">
+		<ingredients water="150" sugar="15" fructose="15" vanillin="20" dark_chocolate="26"/>
+		<value protein="18" fat="13" carbohydrates="60"/>
+	</sweet>
+	
+	<sweet name="Candy 5" energy="350" type="chocolate" production="Lindt">
+		<ingredients water="150" sugar="23" fructose="13" vanillin="11" milk_chocolate="21"/>
+		<value protein="24" fat="16" carbohydrates="60"/>
+	</sweet>
+</candy>
